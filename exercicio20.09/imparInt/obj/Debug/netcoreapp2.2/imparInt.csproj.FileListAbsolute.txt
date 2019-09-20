@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\bin\Debug\netcoreapp2.2\imparInt.deps.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\bin\Debug\netcoreapp2.2\imparInt.runtimeconfig.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\bin\Debug\netcoreapp2.2\imparInt.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\bin\Debug\netcoreapp2.2\imparInt.dll
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\bin\Debug\netcoreapp2.2\imparInt.pdb
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.AssemblyInfo.cs
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.dll
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\imparInt\obj\Debug\netcoreapp2.2\imparInt.pdb

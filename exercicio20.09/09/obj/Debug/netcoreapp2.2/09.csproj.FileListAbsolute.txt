@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\bin\Debug\netcoreapp2.2\09.deps.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\bin\Debug\netcoreapp2.2\09.runtimeconfig.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\bin\Debug\netcoreapp2.2\09.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\bin\Debug\netcoreapp2.2\09.dll
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\bin\Debug\netcoreapp2.2\09.pdb
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.AssemblyInfo.cs
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.dll
+C:\Users\23871167800\Documents\PastaExercicios\exercicio20.09\09\obj\Debug\netcoreapp2.2\09.pdb
