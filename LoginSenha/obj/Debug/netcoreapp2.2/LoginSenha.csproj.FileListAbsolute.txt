@@ -1,0 +1,4 @@
+C:\Users\23871167800\Documents\PastaExercicios\LoginSenha\obj\Debug\netcoreapp2.2\LoginSenha.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\PastaExercicios\LoginSenha\obj\Debug\netcoreapp2.2\LoginSenha.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\LoginSenha\obj\Debug\netcoreapp2.2\LoginSenha.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\LoginSenha\obj\Debug\netcoreapp2.2\LoginSenha.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\bin\Debug\netcoreapp2.2\FormasGeo.deps.json
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\bin\Debug\netcoreapp2.2\FormasGeo.runtimeconfig.json
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\bin\Debug\netcoreapp2.2\FormasGeo.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\bin\Debug\netcoreapp2.2\FormasGeo.dll
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\bin\Debug\netcoreapp2.2\FormasGeo.pdb
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.AssemblyInfo.cs
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.dll
+C:\Users\23871167800\Documents\PastaExercicios\FormasGeo\obj\Debug\netcoreapp2.2\FormasGeo.pdb
