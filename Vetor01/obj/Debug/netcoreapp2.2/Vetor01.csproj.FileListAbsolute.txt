@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\bin\Debug\netcoreapp2.2\Vetor01.deps.json
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\bin\Debug\netcoreapp2.2\Vetor01.runtimeconfig.json
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\bin\Debug\netcoreapp2.2\Vetor01.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\bin\Debug\netcoreapp2.2\Vetor01.dll
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\bin\Debug\netcoreapp2.2\Vetor01.pdb
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.AssemblyInfo.cs
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.dll
+C:\Users\23871167800\Documents\PastaExercicios\Vetor01\obj\Debug\netcoreapp2.2\Vetor01.pdb
