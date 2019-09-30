@@ -13,7 +13,7 @@ namespace Temperatura
             for(int i = 0; i < 12; i++)
             {
                 Console.WriteLine($"Digite a temperatura do mês {i + 1}: ");
-                temperaturas[i] = double.Parse(Console.ReadLine());
+                temperaturas [i] = double.Parse(Console.ReadLine());
             }
 
             foreach(double temp in temperaturas)

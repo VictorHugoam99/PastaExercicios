@@ -14,7 +14,7 @@ namespace LoginSenha
             Console.Write("Entre com a senha: ");
             string passwd = Console.ReadLine();
 
-            if ((login == admLogin) && passwd == admPasswd) {
+            if ((login == admLogin) && passwd == admPass) {
                 Console.WriteLine("Bem vindo Admin.");
             } 
             else {
