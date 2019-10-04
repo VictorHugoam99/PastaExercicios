@@ -6,6 +6,8 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {   
+            #region Cadastro Cliente.
+
             Console.WriteLine("Digite seu Nome:");
             string Nome = Console.ReadLine();
             System.Console.WriteLine("Digite seu CPF:");
@@ -21,41 +23,51 @@ namespace ByteBank
             {
                 Console.Write("Senha: ");
                 string senha = Console.ReadLine();
-                
                 trocouSenha = cliente0.TrocarSenha(senha);
+            
             if (trocouSenha){
                 System.Console.WriteLine("Senha alterada com sucesso!");
             } else {
                 System.Console.WriteLine("Senha inválida");
             }
             } 
+            
+            #endregion
+            
             while(!trocouSenha);
 
-            Console.WriteLine("Agência:");
+            Console.WriteLine("Agência: ");
             int agencia = int.Parse(Console.ReadLine());
-            System.Console.WriteLine("Número:");
+            System.Console.WriteLine("Conta: ");
             int numero = int.Parse(Console.ReadLine());
-            System.Console.WriteLine("Digite seu Email:");
-            string titular = Console.ReadLine();
             
-            ContaCorrente conta0 = new ContaCorrente (agencia, numero, titular);
+            
+            ContaCorrente conta0 = new ContaCorrente (agencia, numero, cliente0);
 
-            bool trocouSenha = false;
+            double saldo;
 
             do
             {
                 Console.Write("Saldo: ");
-                double saldo = double.Parse(Console.ReadLine());
+                saldo = double.Parse(Console.ReadLine());
                 
             if (saldo > 0) {
-                System.Console.WriteLine("Conta criada com sucesso!");
+                conta0.Saldo = saldo;
+                
             } else {
                 System.Console.WriteLine("Saldo inválida");
             }
             } 
             while(saldo < 0);
-        System.Console.WriteLine("Agência: " + conta0.Agencia);
-        } 
-          
+            Console.WriteLine();
+        }  
+
+        Cliente cliente1 = new Cliente("cesar","123.123.123-65", "1@asd.com");
+        ContaCorrente contaCorrente1 = new ContaCorrente (123,332,cliente1);
+
+        #region Depósito.
+        Cliente usuario = contaCorrente1.Titular;
+        Console.WriteLine("ByteBank - Depósito em conta");
+        System.Console.WriteLine($"Bem vindo - {usuario.Nome}");
     }       
 }
