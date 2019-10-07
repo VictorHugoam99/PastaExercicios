@@ -60,14 +60,18 @@ namespace ByteBank
             } 
             while(saldo < 0);
             Console.WriteLine();
-        }  
+          
 
         Cliente cliente1 = new Cliente("cesar","123.123.123-65", "1@asd.com");
-        ContaCorrente contaCorrente1 = new ContaCorrente (123,332,cliente1);
+        ContaCorrente conta1 = new ContaCorrente (123,332,cliente1);
 
-        #region Depósito.
-        Cliente usuario = contaCorrente1.Titular;
+        #region Deposito
+        Cliente usuario = conta1.Titular;
         Console.WriteLine("ByteBank - Depósito em conta");
         System.Console.WriteLine($"Bem vindo - {usuario.Nome}");
+    
+        #endregion
+        
+        }
     }       
 }
