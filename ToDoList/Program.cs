@@ -127,6 +127,39 @@ namespace ToDoList
 
         } while (true);
     }
+#region 
+    void SaveItem(List<Todoitem> lista, string filePath)
+    {
+        List<string> linhas = new   List<string>();
+        linhas.Add("titulo,nota");
+        foreach (Todoitem item in lista)
+        {
+            string titulo = "\"" + item.Titulo + "\"";
+            string nota = "\"" + item.Nota + "\"";
+            linhas.Add(titulo + "," + nota);
+        }
+        string tryAgain = "";
+        do
+        {
+            try
+            {
+                File.WriteAllLines(filePath, linhas);
+
+            } 
+            catch(IOException e)
+            {
+            Console.WriteLine("Erro na gravação do arquivo.");
+            Console.WriteLine(e.Message);
+            do
+            {
+                System.Console.WriteLine("Deseja tentar novamente (s/n) ?");
+                tryAgain = Console.ReadLine().ToLower();
+                
+            }while (tryAgain == "s" || tryAgain == "n");
+            }
+        }while (tryAgain != "n");
+    }
+    #endregion
     }
 }
 
