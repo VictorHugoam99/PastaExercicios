@@ -6,6 +6,7 @@ namespace SENAIzinho
     {
     static void Main(string[] args)
     {
+        int totalAluno       
         int limiteAlunos        = 10;
         int limiteSalas         = 10;
         Aluno[] alunos          = new Aluno[100];
@@ -16,7 +17,8 @@ namespace SENAIzinho
         //bool querSair;
     }
 
-        public void CadastrarAluno(Aluno[] alunos, int totalAluno, int alunosCadastrados) {
+        public void CadastrarAluno(Aluno[] alunos, int totalAluno, int alunosCadastrados) 
+        {
         if(totalAluno > alunosCadastrados)
         {   
             System.Console.WriteLine("Cadastro de Alunos");
@@ -35,19 +37,21 @@ namespace SENAIzinho
         {
             if (aluno == null)
             {
-                alunos[index] = novoAluno;
-                break;
-            }
-            index ++;
+                index ++;
         }
-        alunosCadastrados++;
-        }
+        }        
         
-            
+        
+        alunos[index] = novoAluno;
+        alunosCadastrados++;    
         }
-        public void CadastrarSala() 
+    }
+        public void CadastrarSala(Sala[] salas, int totalSala, ref int salasCadastradas) 
         {
-        
+            if (salasCadastradas < totalSala)
+            {
+                
+            }
         }
         public void AlocarAluno() 
         {
@@ -66,5 +70,5 @@ namespace SENAIzinho
         
         }
 
-    }        
-}   
+    } 
+}  
