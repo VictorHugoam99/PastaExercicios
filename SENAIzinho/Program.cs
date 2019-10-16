@@ -6,7 +6,7 @@ namespace SENAIzinho
     {
     static void Main(string[] args)
     {
-        int totalAluno       
+        int totalAluno;       
         int limiteAlunos        = 10;
         int limiteSalas         = 10;
         Aluno[] alunos          = new Aluno[100];
